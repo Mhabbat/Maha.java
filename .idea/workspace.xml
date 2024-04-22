@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4256f068-534e-4797-a699-45ffcc4c62a3" name="Changes" comment="Comitit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maha.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/AnimalDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/AnimalEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Camel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Donkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/PackAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Pet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fSvOB34CpBPTuv2MCixvIShoiA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/Maha.java/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4256f068-534e-4797-a699-45ffcc4c62a3" name="Changes" comment="" />
+      <created>1713807258930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713807258930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="KontrolWork" />
+    <MESSAGE value="Comitit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comitit" />
+  </component>
+</project>
